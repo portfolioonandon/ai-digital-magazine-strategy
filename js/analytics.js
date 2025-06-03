@@ -1,0 +1,1 @@
+// Google Analytics 4 and GSC tracking code placeholder

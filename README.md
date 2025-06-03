@@ -1,2 +1,3 @@
-# ai-digital-magazine-strategy
-AI 디지털 매거진 전략 프로젝트
+# AI Digital Magazine Strategy
+
+Instructions for deployment and usage on Netlify/GitHub.
